@@ -12,7 +12,7 @@ public class SighApplication {
     public static void main(String[] args) {
 
         SpringApplication.run(SighApplication.class, args);
-        logger.info(">>>>>>>start success<<<<<<<");
+        logger.info(">>>>>>>start successi:!<<<<<<<");
     }
 
 }
